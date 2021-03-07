@@ -53,6 +53,6 @@ Package- https://pub.dev/packages/intro_slider
 ![Screenshot_20191018-221126](https://user-images.githubusercontent.com/37141368/67116495-20747100-f1fe-11e9-825a-fcb792e094b8.jpg)
 
 Ohh ! You Made it Till Here ! 
-If you liked my work, don’t forget to ⭐ star the repo to show your support.
+If you liked my work, don’t forget to ⭐ star the repo to show your support .
 
 Better Version of this App is now avaliable at := https://github.com/yashraut362/Fitness-App
